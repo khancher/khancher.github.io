@@ -1,5 +1,6 @@
-.jumbotron{background-color: #66FFCC;}
+.jumbotron{background-color: #599AC4;}
 .jumbotron {
+	  background-color: #599AC4
       background: url('http://nu.spoonuniversity.com/wp-content/uploads/sites/2/2014/02/t_4_steak5.jpg') no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -8,3 +9,13 @@
 	color: #fff;
 }
 h1 {font-family: 'Source Sans Pro', sans-serif;}
+.pub{color: #599AC4;}
+.dropcap { 
+	float: left; 
+	color: #599AC4; 
+	font-size: 75px; 
+	line-height: 60px; 
+	padding-top: 4px; 
+	padding-right: 8px; 
+	padding-left: 3px; 
+ }
